@@ -1,0 +1,64 @@
+body {
+  margin: 0px;
+  background: linear-gradient(to bottom, #8b0000, #2c0000);
+  height: 100vh;
+  text-align: center;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  
+  border-radius: 10px;
+  
+}
+
+.header {
+  font-family: Eater;
+  color: aliceblue;
+}
+#count-val {
+  text-align: center;
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+  font-family: Nosifer;
+  color: #8b0000;
+  background-color: white;
+  border: 2px solid #8b0000;
+  border-radius: 6px;
+}
+#increment{
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    font-size: 10px;
+    font-family: Nosifer;
+    color: #8b0000;
+    background-color: white;
+    border: 2px solid #8b0000;
+    border-radius: 6px;
+}
+#decrement{
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    font-size: 10px;
+    font-family: Nosifer;
+    color: #8b0000;
+    background-color: white;
+    border: 2px solid #8b0000;
+    border-radius: 6px;
+}
+#reset{
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    font-size: 10px;
+    font-family: Nosifer;
+    color: #8b0000;
+    background-color: white;
+    border: 2px solid #8b0000;
+    border-radius: 6px;
+}
